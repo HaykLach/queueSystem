@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "files": [
+      "library/constants/constants.php"
+    ],
+    "classmap": [
+      "library/"
+    ]
+  }
+}
